@@ -2,3 +2,4 @@ this is 1.txt on branch master
 this is 1.txt on branch sanobar
 kuch bhi meri marzi se
 ye sanober k pc me jayenga
+ye wala sanober k remote repo pe
